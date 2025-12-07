@@ -98,7 +98,7 @@ A tool for scheduling employee trainings, managing trainer availability, locatio
 ## 📫 Contact Me
 
 - 🌐 Portfolio: **https://www.enginkoyuncu.be**  
-- 📧 Email: info@enginkoyuncue.be 
+- 📧 Email: info@enginkoyuncu.be 
 - 💼 LinkedIn: **https://www.linkedin.com/in/engin-koyuncu/**  
 - 🐙 GitHub: You're already here!  
 
