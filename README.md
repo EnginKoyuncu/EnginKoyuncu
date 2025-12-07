@@ -106,7 +106,7 @@ A tool for scheduling employee trainings, managing trainer availability, locatio
 
 ## 📊 GitHub Stats
 
-![Engin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnginKoyuncu&show_icons=true&theme=calm)
+![Engin's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EnginKoyuncu&show_icons=true&theme=calm)
 
 ---
 
