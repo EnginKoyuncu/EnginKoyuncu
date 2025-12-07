@@ -54,7 +54,9 @@ I’m constantly learning, building, and experimenting — always curious about 
 
 ### **🌐 Portfolio Website**
 Personal website showcasing my work, skills, and interests as a developer.  
+
 **Link:** https://www.enginkoyuncu.be/  
+
 **Tech:** HTML, CSS, JavaScript (and more from your stack)
 
 ---
@@ -62,7 +64,7 @@ Personal website showcasing my work, skills, and interests as a developer.
 ### **⚙️ CheckrURL – Safe Browsing, URL Protection & Verified Contacts**
 A Chrome extension that checks URL safety, blocks suspicious sites, provides verified company contacts, and offers tips for secure and safe browsing.
 
-**Link:** https://www.enginkoyuncu.be/project/checkrurl-safe-browsing-url-protection-and-verified-contacts
+**Link:** https://www.enginkoyuncu.be/project/checkrurl-safe-browsing-url-protection-and-verified-contacts <br />
 **Tech:** Typescript, React, NestJS, Postgresql, TailwindCSS, Chrome Extensions, Adoube Illustrator, Adobe Xd, Vercel 
 
 ---
