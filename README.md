@@ -55,8 +55,7 @@ I’m constantly learning, building, and experimenting — always curious about 
 ### **🌐 Portfolio Website**
 Personal website showcasing my work, skills, and interests as a developer.  
 
-**Link:** https://www.enginkoyuncu.be/  
-
+**Link:** https://www.enginkoyuncu.be/
 **Tech:** HTML, CSS, JavaScript (and more from your stack)
 
 ---
@@ -72,7 +71,7 @@ A Chrome extension that checks URL safety, blocks suspicious sites, provides ver
 ### **📱 Jobfinder – Discover & Apply for Jobs**
 Find and apply for jobs that match your requirements, search job opportunities nearby, and explore career options easily.
 
-**Link:** https://www.enginkoyuncu.be/project/jobfinder-discover-and-apply-for-jobs
+**Link:** https://www.enginkoyuncu.be/project/jobfinder-discover-and-apply-for-jobs <br />
 **Tech:** React-Native, Javascript, Expo, Styled-Components 
 
 ---
@@ -80,7 +79,7 @@ Find and apply for jobs that match your requirements, search job opportunities n
 ### **⚙️ Training & Planning Management Tool**
 A tool for scheduling employee trainings, managing trainer availability, locations, and certificates. Includes admin controls, trainer views, and a full planning workflow. Built from analysis to secure deployment.
 
-**Link:** https://www.enginkoyuncu.be/project/training-and-planning-management-tool
+**Link:** https://www.enginkoyuncu.be/project/training-and-planning-management-tool <br />
 **Tech:** Figma, React, Typescript, NestJS, NextJS, Postgresql, Azure Devops
 
 *(More projects coming — stay tuned)*
