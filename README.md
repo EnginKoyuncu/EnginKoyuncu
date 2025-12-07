@@ -54,25 +54,27 @@ I’m constantly learning, building, and experimenting — always curious about 
 
 ### **🌐 Portfolio Website**
 Personal website showcasing my work, skills, and interests as a developer.  
-**Live:** https://www.enginkoyuncu.be/  
+**Link:** https://www.enginkoyuncu.be/  
 **Tech:** HTML, CSS, JavaScript (and more from your stack)
 
 ---
 
 ### **⚙️ CheckrURL – Safe Browsing, URL Protection & Verified Contacts**
 A Chrome extension that checks URL safety, blocks suspicious sites, provides verified company contacts, and offers tips for secure and safe browsing. 
+**Link:** https://www.enginkoyuncu.be/project/checkrurl-safe-browsing-url-protection-and-verified-contacts
 **Tech:** Typescript, React, NestJS, Postgresql, TailwindCSS, Chrome Extensions, Adoube Illustrator, Adobe Xd, Vercel 
-
 ---
 
 ### **📱 Jobfinder – Discover & Apply for Jobs**
-Find and apply for jobs that match your requirements, search job opportunities nearby, and explore career options easily.  
+Find and apply for jobs that match your requirements, search job opportunities nearby, and explore career options easily. 
+**Link:** https://www.enginkoyuncu.be/project/jobfinder-discover-and-apply-for-jobs
 **Tech:** React-Native, Javascript, Expo, Styled-Components 
 
 ---
 
 ### **⚙️ Training & Planning Management Tool**
 A tool for scheduling employee trainings, managing trainer availability, locations, and certificates. Includes admin controls, trainer views, and a full planning workflow. Built from analysis to secure deployment.
+**Link:** https://www.enginkoyuncu.be/project/training-and-planning-management-tool
 **Tech:** Figma, React, Typescript, NestJS, NextJS, Postgresql, Azure Devops
 
 *(More projects coming — stay tuned)*
