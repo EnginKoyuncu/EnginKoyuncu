@@ -5,8 +5,6 @@
 
 ---
 
-# Hi there 👋, I'm Engin Koyuncu
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-enginkoyuncu.be-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.enginkoyuncu.be/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Engin%20Koyuncu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-koyuncu/)
 
