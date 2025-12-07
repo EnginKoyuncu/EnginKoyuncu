@@ -88,7 +88,7 @@ A tool for scheduling employee trainings, managing trainer availability, locatio
 
 - Improving my portfolio & personal branding  
 - Learning modern UI patterns  
-- Expanding my JavaScript/TypeScript & React knowledge  
+- Expanding my Mobile Native knowledge  
 - Building small but meaningful projects  
 
 ---
