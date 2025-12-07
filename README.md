@@ -104,11 +104,5 @@ A tool for scheduling employee trainings, managing trainer availability, locatio
 
 ---
 
-## 📊 GitHub Stats
-
-![Engin's GitHub stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EnginKoyuncu&show_icons=true&theme=calm)
-
----
-
 Thanks for visiting my profile — feel free to explore my repositories and reach out if you’d like to collaborate.  
 **Let’s build something awesome together. 🚀**
