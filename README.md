@@ -1,70 +1,107 @@
-<!-- HEADER BANNER -->
+<!-- HEADER ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=7B2CBF&center=true&vCenter=true&width=600&lines=Hey+there!+I%27m+Engin+Koyuncu+👋;Software+Developer+%7C+Creator+%7C+Builder;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&color=7B2CBF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Engin+Koyuncu+👋;Welcome+to+my+GitHub+Profile!;Software+Developer+%7C+Digital+Creator" />
 </p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ---
 
-## 🌐 About Me
+# Hi there 👋, I'm Engin Koyuncu
 
-I’m **Engin**, a passionate **software developer & digital creator** building modern, beautiful, and user-centric web experiences.  
-I love transforming ideas into clean, fast, and visually appealing applications.  
+[![Portfolio](https://img.shields.io/badge/Portfolio-enginkoyuncu.be-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.enginkoyuncu.be/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Engin%20Koyuncu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engin-koyuncu/)
 
-✨ Always exploring new tools · 🚀 Always building · 🎨 Always designing
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate **software developer & digital creator** who loves turning ideas into clean, modern, and user-friendly digital experiences.  
+My portfolio showcases the projects I've built, the technologies I enjoy working with, and my journey as a developer.
+
+I’m constantly learning, building, and experimenting — always curious about how to make the web a more beautiful and functional place.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,reactnative,php,nodejs,git,github,vscode,linux,figma,apple,android&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,nodejs,git,github,vscode,figma,apple,kotlin,azure&theme=light" />
 </p>
+
+### **Frontend**
+- HTML5 • CSS3 • JavaScript • TypeScript  
+- React • React Native
+- Swift • C++
+- Kotlin  
+- Responsive design  
+- UI/UX thinking  
+
+### **Backend**
+- Node.js  
+- PHP  
+- REST APIs
+- Azure
+
+### **Tools & Workflow**
+- Git & GitHub  
+- VS Code  
+- Figma  
+- CI/CD basics  
+- UX-focused development  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎨 Personal Portfolio Website  
-A modern portfolio site showcasing my work, skills, and projects.  
-🔗 Live: https://www.enginkoyuncu.be/
+### **🌐 Portfolio Website**
+Personal website showcasing my work, skills, and interests as a developer.  
+**Live:** https://www.enginkoyuncu.be/  
+**Tech:** HTML, CSS, JavaScript (and more from your stack)
+
+---
+
+### **⚙️ CheckrURL – Safe Browsing, URL Protection & Verified Contacts**
+A Chrome extension that checks URL safety, blocks suspicious sites, provides verified company contacts, and offers tips for secure and safe browsing. 
+**Tech:** Typescript, React, NestJS, Postgresql, TailwindCSS, Chrome Extensions, Adoube Illustrator, Adobe Xd, Vercel 
+
+---
+
+### **📱 Jobfinder – Discover & Apply for Jobs**
+Find and apply for jobs that match your requirements, search job opportunities nearby, and explore career options easily.  
+**Tech:** React-Native, Javascript, Expo, Styled-Components 
+
+---
+
+### **⚙️ Training & Planning Management Tool**
+A tool for scheduling employee trainings, managing trainer availability, locations, and certificates. Includes admin controls, trainer views, and a full planning workflow. Built from analysis to secure deployment.
+**Tech:** Figma, React, Typescript, NestJS, NextJS, Postgresql, Azure Devops
 
 *(More projects coming — stay tuned)*
 
 ---
 
-## 🎞 Stats & Activity
+## 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnginKoyuncu&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnginKoyuncu&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnginKoyuncu&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+- Improving my portfolio & personal branding  
+- Learning modern UI patterns  
+- Expanding my JavaScript/TypeScript & React knowledge  
+- Building small but meaningful projects  
 
 ---
 
-## 🌊 Let’s Connect
+## 📫 Contact Me
 
-<p align="center">
-  <a href="https://www.enginkoyuncu.be/">
-    <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/engin-koyuncu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="mailto:info@enginkoyuncu.be">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+- 🌐 Portfolio: **https://www.enginkoyuncu.be**  
+- 📧 Email: info@enginkoyuncue.be 
+- 💼 LinkedIn: **https://www.linkedin.com/in/engin-koyuncu/**  
+- 🐙 GitHub: You're already here!  
 
 ---
 
-## 👋 Thanks for stopping by!
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.gif" width="200" />
-</p>
+![Engin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnginKoyuncu&show_icons=true&theme=calm)
+
+---
+
+Thanks for visiting my profile — feel free to explore my repositories and reach out if you’d like to collaborate.  
+**Let’s build something awesome together. 🚀**
